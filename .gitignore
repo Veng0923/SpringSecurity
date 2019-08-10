@@ -29,4 +29,4 @@ build/
 
 ### VS Code ###
 .vscode/
-/src/main/resources/templates/login.html
+将删除 src/main/resources/static/
